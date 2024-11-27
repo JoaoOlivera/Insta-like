@@ -1,0 +1,3 @@
+AIzaSyB78lWZ8RG-Ubl1hpCV5JTAG90zsK7IByY
+
+mongodb+srv://joaoFerreira:Andrade098?@cluster00.sgezu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster00
